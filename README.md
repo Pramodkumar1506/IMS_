@@ -1,0 +1,2 @@
+# IMS_
+Tracking the items purchased and the remaining stock with automated billing process. Libraries:json. I stored the details of the items available in my condiments like its price quantities. The items are sorted by the specific id. When the customers enters the specific product id it automatically displays the products and its details. As soon as the input given and purchased the remaining stocks gets updated in record.
